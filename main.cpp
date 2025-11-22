@@ -1,5 +1,6 @@
 void dontohign(){
     cout<<"hello form saim";
+    cout<<"Hello from hanz";
 }
 /*#include <SFML/Graphics.hpp>
 
