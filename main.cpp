@@ -1,4 +1,6 @@
-// hello this is saim
+void dontohign(){
+    cout<<"hello form saim";
+}
 /*#include <SFML/Graphics.hpp>
 
 int main()
